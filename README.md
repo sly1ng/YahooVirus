@@ -2,22 +2,28 @@
 How to remove yahoo virus for chrome
 ****
 **What is Search.yahoo.com?**
+
 Search.yahoo.com is the URL of the Yahoo’s search engine. Using search.yahoo.com does not bring any harm to your device. However, many users are unintentionally redirected to search.yahoo.com, while they are searching on Google.com. This redirection is carried out through the malware known as Browser Hijacker or Browser Virus.
 ****
 **What is a Browser Hijacker?**
+
 A Browser Hijacker, commonly known as the redirect Virus, is a malicious program that gets an entry on your web browser through various means and infiltrates with browser settings, without user permission to promote the fake search engines or the affiliated web pages. Since users do not willingly install them, such hijackers are often considered as Potentially Unwanted Programs or Applications, PUPs or PUAs (mine was - PUADlManager:Win32/InstallCore)
 ****
 **What is PUADlManager:Win32/InstallCore?**
+
 Virus taht can silently intrude your computer without permission. It can destroy your system programs, files, software, etc. It will disable your anti-virus and firewall security programs. This nasty virus can also bring similar threats, spyware, malware to your computer (for me it was malware and trojan).
 ****
-**How to noticve it?**
+**How to notice it?**
+
 I noticed it when my browser changed from chrome to yahoo (Search.yahoo.com) and noticed by yahoo logo that appiered at my url bar.
 
 ![image](https://github.com/sly1ng/YahooVirus/assets/140085224/3fc8e94a-e88a-4577-9d84-f52f2bc71974)
 
 **How to remove the Yahoo search engine from Chrome?**
+
 First i recomend to scan your computer using antivirus software, then to set all antivirus options to on or highest (same  as for chrome security options) 
 If your antivirus found a threat that u dont know abouth remove it immediatly
+
 **If u think that the virus is still on your pc then follow these steps:**
 **Step 1: Remove Yahoo using Settings**
 
